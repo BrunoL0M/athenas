@@ -9,3 +9,6 @@ dist
 # Editor / OS
 .DS_Store
 *.local
+
+# CLAUDE
+CLAUDE.md
