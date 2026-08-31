@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    projectlogr_lib::run()
+    athenas_lib::run()
 }

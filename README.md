@@ -1,10 +1,12 @@
-# ProjectLogr
+# Athenas
 
 > La memoria externa de tu vida como developer.
 
-ProjectLogr es una aplicación de escritorio **local-first** (Tauri 2 + Rust + React) que centraliza el contexto de tus proyectos personales: qué stack usan, dónde quedó tu última sesión de trabajo, qué estado tiene el repo git, y qué proyectos olvidados existen en tu disco.
+Athenas es una aplicación de escritorio **local-first** (Tauri 2 + Rust + React) que centraliza el contexto de tus proyectos personales: qué stack usan, dónde quedó tu última sesión de trabajo, qué estado tiene el repo git, y qué proyectos olvidados existen en tu disco.
 
 No es un gestor de tareas ni un dashboard de observabilidad — **gestiona tu contexto**: sabe dónde quedaste, qué olvidaste y cómo evolucionaste como dev.
+
+Nombre: del griego "Atenea" (Athena), diosa de la sabiduría — referencia a la idea de ser tu "memoria externa" y "guía" de desarrollo.
 
 ## Features (roadmap)
 

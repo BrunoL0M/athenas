@@ -11,7 +11,7 @@ pub struct AppInfo {
 #[tauri::command]
 pub fn get_app_info() -> AppInfo {
     AppInfo {
-        name: String::from("ProjectLogr"),
+        name: String::from("Athenas"),
         version: String::from(env!("CARGO_PKG_VERSION")),
         stack: vec![
             String::from("Tauri"),
